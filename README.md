@@ -2,7 +2,7 @@
 
 ## Problem Description
 
-My goal is to predict whether the patient should take h1n1 vaccine or not.
+My goal is to predict whether the patient should take seasonal flu vaccine or not.
 
 ## Features in dataset
 
